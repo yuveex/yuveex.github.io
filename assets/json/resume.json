@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Alvin Setiawan",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "alvinsetiawan2k3@gmail.com",
+    "phone": "-",
+    "url": "https://yuveex.github.io",
+    "summary": "Informatics Engineering Undergraduate at Universitas Surabaya (UBAYA) | Bangkit 2024 Cloud Computing Cohort",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Alvin Setiawan",
+        "url": "https://www.linkedin.com/in/alvin-setiawan-a5bb73333/"
       }
     ]
   },
