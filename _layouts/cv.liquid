@@ -95,26 +95,26 @@ layout: default
                   {% include resume/basics.liquid %}
                 {% when 'education' %}
                   {% include resume/education.liquid %}
-                {% when 'work' %}
+                {% comment %} {% when 'work' %}
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
-                  {% include resume/volunteer.liquid %}
+                  {% include resume/volunteer.liquid %} {% endcomment %}
                 {% when 'projects' %}
                   {% include resume/projects.liquid %}
-                {% when 'awards' %}
-                  {% include resume/awards.liquid %}
+                {% comment %} {% when 'awards' %}
+                  {% include resume/awards.liquid %} {% endcomment %}
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}
-                {% when 'publications' %}
-                  {% include resume/publications.liquid %}
+                {% comment %} {% when 'publications' %}
+                  {% include resume/publications.liquid %} {% endcomment %}
                 {% when 'languages' %}
                   {% include resume/languages.liquid %}
-                {% when 'interests' %}
-                  {% include resume/interests.liquid %}
+                {% comment %} {% when 'interests' %}
+                  {% include resume/interests.liquid %} {% endcomment %}
                 {% when 'certificates' %}
                   {% include resume/certificates.liquid %}
-                {% when 'references' %}
-                  {% include resume/references.liquid %}
+                {% comment %} {% when 'references' %}
+                  {% include resume/references.liquid %} {% endcomment %}
                 {% else %}
 
               {% endcase %}

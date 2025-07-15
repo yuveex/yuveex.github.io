@@ -3,6 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: YuveeX # the website title (if blank, full name will be used instead)
+use_name_on_about: true # If true, uses name instead of title on about
 first_name: Alvin
 middle_name: S.
 last_name: Go
