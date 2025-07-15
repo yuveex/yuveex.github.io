@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey there! I'm Alvin. I'm a software engineer with proficiencies in Backend Development, Machine Learning, and Cloud Computing (GCP Certified Associate Cloud Engineer). I love solving problems, and learning new skills necessary to do so.
+Hey there! I'm Alvin. I'm a software engineer with proficiencies in Backend Development, Machine Learning, and Cloud Computing (GCP Certified Associate Cloud Engineer).
+
+I love solving problems, and learning new skills to do so.
 
 You can navigate this site to know more about me, but you can also contact me by the channels I have provided if you would like to know more!
 
