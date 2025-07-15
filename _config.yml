@@ -7,8 +7,7 @@ use_name_on_about: true # If true, uses name instead of title on about
 first_name: Alvin
 middle_name: S.
 last_name: Go
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
