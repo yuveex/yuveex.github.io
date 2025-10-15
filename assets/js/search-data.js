@@ -10,15 +10,15 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+          title: "Projects",
+          description: "Collection of my projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          title: "Repositories",
+          description: "Showcase of my Github repositories",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -409,9 +409,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-ship-detection-with-yolov8",
+          title: 'Ship Detection with YOLOv8',
+          description: "A web-based application that allows users to upload images and detects ships using a YOLOv8 object detection model. Built as part of my undergraduate thesis to explore deep learning applications in maritime surveillance.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
@@ -454,6 +454,31 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-brain-tumor-classification-with-cnn",
+          title: 'Brain Tumor Classification with CNN',
+          description: "This project builds a convolutional neural network model to classify MRI images for types of Brain tumors. This project covers model training, evaluation, and simple visualization.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/brain_tumor_classification_cnn/";
+            },},{id: "projects-company-bankruptcy-prediction-with-machine-learning",
+          title: 'Company Bankruptcy Prediction with Machine Learning',
+          description: "This project trains multiple machine learning models and algorithms to detect company bankruptcy based on company&#39;s financial records. This project covers preprocessing, model training (optimized with OPTUNA), evaluation, and simple visualization.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/company_bankruptcy_ml/";
+            },},{id: "projects-habitsaga",
+          title: 'HabitSaga',
+          description: "A Gamified Productivity Tool addresses the prevalent issue of academic procrastination among students. By integrating the Pomodoro Technique and the Eisenhower Matrix into a gamified interface, the application provides personalized productivity strategies and automated task prioritization to enhance efficiency and motivation. This project is developed as a Capstone project for Bangkit Academy",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/habitsaga/";
+            },},{id: "projects-road-sign-images-instance-segmentation-with-yolov8",
+          title: 'Road Sign Images Instance Segmentation with YOLOv8',
+          description: "This project trains multiple YOLOv8 models of different parameters for instance segmentation on road sign images.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/road_sign_seg_YOLOv8/";
+            },},{id: "projects-ship-detection-with-yolov8",
+          title: 'Ship Detection with YOLOv8',
+          description: "A web-based application that allows users to upload images and detects ships using a YOLOv8 object detection model. Built as part of my undergraduate thesis to explore deep learning applications in maritime surveillance.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ship_detection_YOLOv8/";
             },},{
         id: 'social-email',
         title: 'email',
