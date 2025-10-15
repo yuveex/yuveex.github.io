@@ -114,14 +114,6 @@
       "url": "https://github.com/C242-PS009/HabitSagaAndroidApp"
     },
     {
-      "name": "HabitSaga",
-      "summary": "A Gamified Productivity Tool addresses the prevalent issue of academic procrastination among students.",
-      "highlights": ["Kotlin", "GCP", "Cloud", "Firebase"],
-      "startDate": "08-10-2024",
-      "endDate": "14-12-2024",
-      "url": "https://github.com/C242-PS009/HabitSagaAndroidApp"
-    },
-    {
       "name": "Company Bankruptcy Predition with Machine Learning",
       "summary": "Using Machine Learning models to predict company bankruptcy.",
       "highlights": ["Python", "Machine Learning", "Classification"],
