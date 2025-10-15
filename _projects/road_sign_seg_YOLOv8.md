@@ -7,5 +7,3 @@ redirect: https://github.com/yuveex/RoadSign_InstanceSeg_YOLOv8
 importance: 5
 category: work
 ---
-
-{% endraw %}

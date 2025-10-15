@@ -7,5 +7,3 @@ redirect: https://github.com/yuveex/BrainTumorClassification_CNN
 importance: 4
 category: work
 ---
-
-{% endraw %}

@@ -7,5 +7,3 @@ redirect: https://github.com/yuveex/Company-Bankruptcy-ML
 importance: 3
 category: work
 ---
-
-{% endraw %}

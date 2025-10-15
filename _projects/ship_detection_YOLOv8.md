@@ -7,5 +7,3 @@ redirect: https://github.com/yuveex/YOLOv8ShipDetection
 importance: 1
 category: work
 ---
-
-{% endraw %}
