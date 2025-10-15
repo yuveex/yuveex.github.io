@@ -10,14 +10,14 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "Projects",
+          title: "projects",
           description: "Collection of my projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "Repositories",
+          title: "repositories",
           description: "Showcase of my Github repositories",
           section: "Navigation",
           handler: () => {
@@ -459,8 +459,8 @@ ninja.data = [{
           description: "This project builds a convolutional neural network model to classify MRI images for types of Brain tumors. This project covers model training, evaluation, and simple visualization.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/brain_tumor_classification_cnn/";
-            },},{id: "projects-company-bankruptcy-prediction-with-machine-learning",
-          title: 'Company Bankruptcy Prediction with Machine Learning',
+            },},{id: "projects-company-bankruptcy-prediction-with-ml",
+          title: 'Company Bankruptcy Prediction with ML',
           description: "This project trains multiple machine learning models and algorithms to detect company bankruptcy based on company&#39;s financial records. This project covers preprocessing, model training (optimized with OPTUNA), evaluation, and simple visualization.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/company_bankruptcy_ml/";
