@@ -33,8 +33,6 @@ I love solving problems, and learning new skills to do so.
 
 You can navigate this site to know more about me, but you can also contact me by the channels I have provided if you would like to know more!
 
-Also, this site is still under construction, so if there are some templates or empty pages, I sincerely apologise!
-
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

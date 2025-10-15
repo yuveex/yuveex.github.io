@@ -103,7 +103,31 @@
       "highlights": ["Computer Vision", "YOLOv8"],
       "startDate": "06-07-2024",
       "endDate": "12-06-2025",
-      "url": "https://example.com"
+      "url": "https://github.com/yuveex/YOLOv8ShipDetection"
+    },
+    {
+      "name": "HabitSaga",
+      "summary": "A Gamified Productivity Tool addresses the prevalent issue of academic procrastination among students.",
+      "highlights": ["Kotlin", "GCP", "Cloud", "Firebase"],
+      "startDate": "08-10-2024",
+      "endDate": "14-12-2024",
+      "url": "https://github.com/C242-PS009/HabitSagaAndroidApp"
+    },
+    {
+      "name": "HabitSaga",
+      "summary": "A Gamified Productivity Tool addresses the prevalent issue of academic procrastination among students.",
+      "highlights": ["Kotlin", "GCP", "Cloud", "Firebase"],
+      "startDate": "08-10-2024",
+      "endDate": "14-12-2024",
+      "url": "https://github.com/C242-PS009/HabitSagaAndroidApp"
+    },
+    {
+      "name": "Company Bankruptcy Predition with Machine Learning",
+      "summary": "Using Machine Learning models to predict company bankruptcy.",
+      "highlights": ["Python", "Machine Learning", "Classification"],
+      "startDate": "05-12-2023",
+      "endDate": "25-01-2024",
+      "url": "https://github.com/yuveex/Company-Bankruptcy-ML"
     }
   ]
 }

@@ -1,16 +1,45 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Ship Detection with YOLOv8
+description: A web-based application that allows users to upload images and detects ships using a YOLOv8 object detection model. Built as part of my undergraduate thesis to explore deep learning applications in maritime surveillance.
+img: assets/img/ShipDetection1.png
 importance: 1
-category: work
-related_publications: true
+category: archive
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
+
+<table>
+  <tr>
+    <th>Layer</th>
+    <th>Technology</th>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Flask-3BABC3?logo=flask&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Model</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/YOLOv8-111F68?logo=yolo&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
